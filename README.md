@@ -1,6 +1,11 @@
-![](https://images.cooltext.com/5508510.png)
+![](logo.png)
 ### Hi there 👋
 
+
+
+| Hora  | Lunes       | Martes     | Miercoles  | Jueves     | Viernes |
+|-------|-------------|------------|------------|------------|---------|
+| 17:00 | S. Program. | S. Progran | S. Program | S. Program |         |
 <!--
 **OsmanArgu/OsmanArgu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
